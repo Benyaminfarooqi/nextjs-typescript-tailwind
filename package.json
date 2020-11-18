@@ -2,14 +2,14 @@
   "dependencies": {
     "@headlessui/react": "^0.2.0",
     "classnames": "^2.2.6",
-    "next": "^9.5.1",
+    "next": "^10.0.1",
     "next-compose-plugins": "^2.2.0",
     "next-optimized-images": "^2.6.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
-    "@tailwindcss/ui": "^0.6.0",
+    "@tailwindcss/ui": "^0.7.2",
     "@types/classnames": "^2.2.10",
     "@types/jest": "^26.0.7",
     "@types/node": "^14.0.25",
